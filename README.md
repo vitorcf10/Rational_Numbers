@@ -1,0 +1,13 @@
+# Rational_Numbers
+- C program to manipulate rational numbers.
+- Program in portuguese the translations are:
+- tRacional the rational type number, n(numerator), d(denominator)
+- mdc(int, int) = gcd(int, int)
+- mmc(int, int) = lcm(int, int)
+- simplifica = simplify
+- leiaRacional = readRational
+- somaRacional = addRational
+- subtracaoRacional = subtractRational
+- produtoRacional - multiplyRational
+- divisaoRacional = divideRational
+- Main function is a sample usage
